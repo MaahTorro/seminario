@@ -53,3 +53,5 @@
 
 ### 1642
 > E então, Galileu Galilei falece em 8 de Janeiro de 1642...nesse mesmo ano, Isaac Newon nasce na Inglaterra no dia 25 de Dezembro.
+
+Essa coisa ta tudo feito finalmente
